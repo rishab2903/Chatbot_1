@@ -49,6 +49,9 @@
 - yup
 - yas
 - no problem
+- np
+- cool
+- k
 
 ## intent:deny
 - no
